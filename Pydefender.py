@@ -1,5 +1,5 @@
 # PYDEFENDER
-# Developed by Raagul26, Gowtham758550
+# Developed by Raagul26, Gowtham758550, sanjeevi1277
 # Scans files and urls using virustotal API built using python
 
 from virustotal_python import Virustotal
