@@ -39,5 +39,5 @@ files.
 * [Anish](https://www.github.com/anish-m-code)
 * [Gowtham](https://www.github.com/gowtham758550)
 * [Raagul](https://www.github.com/raagul26)
-* [Godwin](https://www.github.com/godwinkrik)
+* [Godwin](https://www.github.com/godwinujeen)
 * [Godwin Joy](https://www.github.com/god-dark)
