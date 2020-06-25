@@ -2,6 +2,11 @@
 
 It is a simple Tool for Analysing  Files , developed in Python For Kali Linux.
 
+## ***Install requirements***
+```
+$ python requirements.txt
+```
+
 ## ***Setup***
 ```
 $ python setup.py
