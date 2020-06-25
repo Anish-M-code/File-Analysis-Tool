@@ -1,6 +1,7 @@
 # File-Analysis Tool
 <p align = "center">
 <img src = "https://img.shields.io/badge/License-GPL%20v3.0-green">
+<img src = "https://img.shields.io/badge/Platform-linux-inactive">
 </p>
 
 It is a simple Tool for Analysing  Files , developed in Python For Kali Linux.
