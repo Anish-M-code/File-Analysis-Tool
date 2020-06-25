@@ -1,7 +1,7 @@
 import os
 
 cwd = os.getcwd() 
-alias="\nalias git-manager='python {}/FAT'".format(cwd)
+alias="\nalias FAT='python {}/FAT'".format(cwd)
 
 home = os.path.expanduser("~")
 
