@@ -14,3 +14,5 @@ Features:-
 
 This software uses office2john module to deal with ms office documents. which has different 
 License. Available here: https://github.com/magnumripper/JohnTheRipper/blob/bleeding-jumbo/run/office2john.py
+
+To use this tool simply unzip FAT.zip file and run python3 FAT
