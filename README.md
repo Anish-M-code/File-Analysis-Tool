@@ -2,15 +2,17 @@
 
 It is a simple Tool for Analysing  Files , developed in Python For Kali Linux.
 
-Features:-
+![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-220856.png)
 
-1)Metadata Analysis
+## ***Features:-***
 
-2)File Type Detection
+* Metadata Analysis
 
-3)Password Cracking
+* File Type Detection
 
-4)Upload Suspicious Files to Virustotal.
+* Password Cracking
+
+* Upload Suspicious Files to Virustotal.
 
 This software uses office2john module to deal with ms office documents. which has different 
 License. Available here: https://github.com/magnumripper/JohnTheRipper/blob/bleeding-jumbo/run/office2john.py
