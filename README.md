@@ -4,9 +4,14 @@ It is a simple Tool for Analysing  Files , developed in Python For Kali Linux.
 
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-220856.png)
 
+## ***Setup***
+```
+$ python setup.py
+```
+
 ## ***Usage***
 ```
-$ python3 FAT
+$ python FAT
 ```
 
 ## ***Features***
