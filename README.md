@@ -20,7 +20,7 @@ $ python3 FAT
 * Upload Suspicious Files to Virustotal.
 
 ## ***Metadata Analysis***
-* For metadata analysis we use the [exiftool](https://exiftool.org/) to extract metadata from
+* For metadata analysis we use the [exiftool](https://exiftool.org/) and [mat2](https://pypi.org/project/mat2/) to extract metadata from
 files.
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-222429.png)
 
