@@ -8,12 +8,12 @@ It is a simple Tool for Analysing  Files , developed in Python For Kali Linux.
 
 ## ***Install requirements***
 ```
-$ python requirements.txt
+$ python3 requirements.txt
 ```
 
 ## ***Setup***
 ```
-$ python setup.py
+$ python3 setup.py
 ```
 
 ## ***Usage***
