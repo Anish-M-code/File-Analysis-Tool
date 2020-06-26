@@ -18,7 +18,7 @@ $ python3 setup.py
 
 ## ***Usage***
 ```
-$ FAT
+$ python3 FAT
 ```
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-220856.png)
 ## ***Features***
