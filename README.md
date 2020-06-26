@@ -29,7 +29,7 @@ $ python3 FAT
 
 * Password Cracking
 
-* Upload Suspicious Files to Virustotal.
+* Check Suspicious Files using Virustotal.
 
 ## ***Metadata Analysis***
 * For metadata analysis we use the [exiftool](https://exiftool.org/) and [mat2](https://pypi.org/project/mat2/) to extract metadata from
