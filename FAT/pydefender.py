@@ -43,7 +43,7 @@ def check_api(key):
         else:
             return False
     except urllib.error.URLError:
-        input('Connect to internet...')
+        print('Connect to internet...')
         exit()
 
 
