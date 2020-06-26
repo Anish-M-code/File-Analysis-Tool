@@ -49,7 +49,7 @@ files.
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-221317.png)
 
 ## ***Note***
-* This software uses office2john module to deal with ms office documents. which has different 
+* This software uses office2john module to deal with Microsoft office documents. which has different 
 [License](https://github.com/magnumripper/JohnTheRipper/blob/bleeding-jumbo/run/office2john.py).
 
 ## ***Contributors***
