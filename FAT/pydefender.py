@@ -9,6 +9,7 @@ import hashlib
 import os
 import urllib.request
 import time
+import getpass
 
 #PATCH 1
 import menu                                  #For use in File Analysis Tool only.
@@ -61,7 +62,7 @@ def get_api():
         pass
     else:
         try:
-            key = input('Enter your Virustotal API key: ')
+            key = getpass.getpass('Enter your Virustotal API key: ')
             if check_api(key):
                 while True:
                     if check_api(key):
