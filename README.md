@@ -37,8 +37,7 @@ files.
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-222429.png)
 
 ## ***File Type Detection***
-* Our File type detection allows to analyze a variety of filetypes by analyzing file structure. One can compare this with
-file extension to detect suspicious files.
+* Our File type detection allows to analyze a variety of filetypes by analyzing file structure.
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-222329~2.png)
 
 ## ***Password Cracking***
