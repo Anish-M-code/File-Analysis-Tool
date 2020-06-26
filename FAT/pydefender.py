@@ -49,7 +49,7 @@ def get_api():
             print("\nConnected Successfully!!!")
             with open('api_key', 'w') as key_file:
                 key_file.write(key)
-            print('Key is encrypted and stored in a file\n')
+            print('API Key is stored in a file...\n')
         except:
             print('Something went wrong')
 
