@@ -167,7 +167,7 @@ def main():
                 exit(0)
 
             input('\nPress enter to continue...')
-            os.system('cls' if os.name == 'nt' else 'clear')
+            os.system('cls' or 'clear')
         except urllib.error.URLError:
             input('Connect to internet...')
             break
