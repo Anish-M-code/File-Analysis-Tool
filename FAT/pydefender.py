@@ -9,6 +9,7 @@ import hashlib
 import os
 import urllib.request
 import time
+import getpass
 
 #PATCH 1
 import menu                                  #For use in File Analysis Tool only.
