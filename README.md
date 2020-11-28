@@ -45,7 +45,7 @@ files.
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-222424.png)
 
 ## ***Upload Suspicious Files to Virustotal***
-* We use  [virustotal](https://www.virustotal.com/gui/home/upload), via  [virustotal API](https://pypi.org/project/virustotal-python/) to check files if it is malicious or not.
+* We use  [virustotal](https://www.virustotal.com/gui/home/upload), via  [virustotal API](https://pypi.org/project/virustotal-python/) to check files if it is malicious or not using [PyDefender](https://github.com/Raagul26/PyDefender).
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-221317.png)
 
 ## ***Note***
