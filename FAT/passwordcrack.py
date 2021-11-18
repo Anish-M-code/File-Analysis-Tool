@@ -49,7 +49,7 @@ def office(file):
    os.chdir('FAT')
    os.system('cp office2john.py ../')
    os.chdir('..')
-  os.system("sudo python office2john.py "+file+" >passwordhash.txt")
+  os.system("sudo python3 office2john.py "+file+" >passwordhash.txt")
   os.remove('office2john.py')
 
 #To crack dmg files.
