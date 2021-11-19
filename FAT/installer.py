@@ -2,14 +2,14 @@
 ''' Installer for File Analysis Tool Developed by M.Anish
     Installs thirdparty tools requied for this tool. ''' 
 
-import menu as m
+
 import platform
 import os
 
 
 if platform.system().lower()!='linux':
    print('Platform not supported!')
-   m.pause()
+   
 
 flag=0
 
