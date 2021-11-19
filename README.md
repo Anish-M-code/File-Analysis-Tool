@@ -23,22 +23,16 @@ $ python3 FAT
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-220856.png)
 ## ***Features***
 
-* Metadata Analysis
-
-* File Type Detection
+* Metadata Analysis and File Type Detection.
 
 * Password Cracking
 
 * Check Suspicious Files using Virustotal.
 
-## ***Metadata Analysis***
+## ***Metadata Analysis and File Type Detection***
 * We use state of art  [exiftool](https://exiftool.org/) and [mat2](https://pypi.org/project/mat2/) to extract interesting metadata from
 files.
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-222429.png)
-
-## ***File Type Detection***
-* Our File type detection allows to analyze a variety of filetypes by analyzing file structure.
-![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-222329~2.png)
 
 ## ***Password Cracking***
 * We use [John the ripper](https://en.m.wikipedia.org/wiki/John_the_Ripper) to do password cracking with ease. 
