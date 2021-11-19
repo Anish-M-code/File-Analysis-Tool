@@ -2,7 +2,9 @@ import menu
 import os
 from prompt_toolkit import prompt
 
-
+def filex(fil):
+    print('\n\nDetected File Type:\n\n') 
+    os.system('file -b '+fil)
 
 def begin():
     return("\nENTER YOUR CHOICE\n1.Exiftool\n2.MAT2\n\n0.EXIT")
@@ -51,6 +53,7 @@ def exif_tool():
     pwd = os.getcwd()
     print('Enter the File (or) Folder name >> ')
     file = prompt()
+    filex(file)
     os.system('exiftool -c "%.6f" {0}'.format(file))
     os.system('exiftool -c "%.6f" {0} -gpsposition > out.txt'.format(file))
     with open('out.txt',"r") as s:
@@ -73,6 +76,7 @@ def exif_tool():
 def mat2_tool():
     print('Enter the File (or) Folder name >> ')
     file = prompt()
+    filex(file)
     os.system('mat2 -s {0}'.format(file))
 
     try:
