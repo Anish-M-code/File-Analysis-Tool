@@ -29,7 +29,7 @@ $ python3 FAT
 
 * Check Suspicious Files using Virustotal.
 
-## ***Metadata Analysis and File Type Detection ***
+## ***Metadata Analysis and File Type Detection***
 * We use state of art  [exiftool](https://exiftool.org/) and [mat2](https://pypi.org/project/mat2/) to extract interesting metadata from
 files.
 ![](https://github.com/Anish-M-code/File-Analysis-Tool/blob/master/DEMO/signal-2020-06-25-222429.png)
