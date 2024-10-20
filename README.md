@@ -8,7 +8,7 @@ It is a simple Tool for Analysing  Files , developed in Python For Kali Linux.
 
 ## ***Install requirements***
 ```
-$ python3 requirements.txt
+$ pip3 install -r requirements.txt
 ```
 
 ## ***Setup***
